@@ -2,6 +2,9 @@
 dog = ()   
 print(type(dog))
 
+
+
+
 #adding given items as keys and empty values to dictionary                                                                                                    
 dog={"Name":"Rocky","Color":"Black","Breed":"GSD","Legs":"4","Age":"7"} 
 print(dog)
